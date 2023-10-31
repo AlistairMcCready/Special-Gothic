@@ -8,3 +8,6 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+
+Alistair McCready <https://monolith.co.nz/>
+Wei Huang <https://weiweihuanghuang.github.io/>
