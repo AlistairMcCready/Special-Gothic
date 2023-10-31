@@ -42,14 +42,14 @@ https://scripts.sil.org/OFL
 
 This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
 
-[![][Fontbakery]](https://AlistairMcCready.github.io/Special-Gothic.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://AlistairMcCready.github.io/Special-Gothic.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://AlistairMcCready.github.io/Special-Gothic.git/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://AlistairMcCready.github.io/Special-Gothic.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://AlistairMcCready.github.io/Special-Gothic.git/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://AlistairMcCready.github.io/Special-Gothic/fontbakery/fontbakery-report.html)
+[![][Universal]](https://AlistairMcCready.github.io/Special-Gothic/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://AlistairMcCready.github.io/Special-Gothic/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://AlistairMcCready.github.io/Special-Gothic/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://AlistairMcCready.github.io/Special-Gothic/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic.git%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlistairMcCready%2FSpecial-Gothic%2Fgh-pages%2Fbadges%2FUniversal.json
