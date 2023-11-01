@@ -6,7 +6,7 @@ Special Gothic was created for and in collaboration with Special Group to celebr
 
 ### [Download the latest fonts](https://github.com/AlistairMcCready/Special-Gothic/releases)
 
-![Sample Image](documentation/image1.png)
+![Sample Image](documentation/SG.png)
 
 ## About
 
