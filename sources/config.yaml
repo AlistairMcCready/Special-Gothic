@@ -1,9 +1,5 @@
 sources:
   - SpecialGothic.glyphs
-familyName: Special Gothic
-buildVariable: false
-checkCompatibility: false
-buildWebfont: true
-googleFonts: true
-category:
-  - SANS_SERIF
+familyName: "Special Gothic"
+outputDir: "../fonts/specialgothic"
+cleanUp: true

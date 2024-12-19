@@ -1,0 +1,5 @@
+sources:
+  - SpecialGothic-Condensed.glyphs
+familyName: "Special Gothic Condensed One"
+outputDir: "../fonts/specialgothic-condensed"
+cleanUp: true
