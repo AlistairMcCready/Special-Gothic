@@ -1,5 +1,5 @@
 {
-.appVersion = "3223";
+.appVersion = "3326";
 .formatVersion = 3;
 axes = (
 {
@@ -629,9 +629,12 @@ date = "2023-10-31 03:07:53 +0000";
 familyName = "Special Gothic";
 featurePrefixes = (
 {
+automatic = 1;
 code = "languagesystem DFLT dflt;
+
 languagesystem latn dflt;
-languagesystem latn CAT;";
+languagesystem latn CAT;
+";
 name = Languagesystems;
 },
 {
@@ -2221,7 +2224,7 @@ nodes = (
 width = 1148;
 }
 );
-note = ".notdef";
+note = .notdef;
 },
 {
 glyphname = .null;
@@ -73790,13 +73793,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
