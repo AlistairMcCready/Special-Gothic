@@ -1,6 +1,9 @@
 {
 .appVersion = "3326";
 .formatVersion = 3;
+DisplayStrings = (
+"ŀl"
+);
 classes = (
 {
 automatic = 1;
@@ -18322,7 +18325,7 @@ unicode = 316;
 {
 glyphname = ldot;
 kernLeft = h;
-lastChange = "2024-12-19 13:17:51 +0000";
+lastChange = "2024-12-19 16:22:40 +0000";
 layers = (
 {
 background = {
@@ -18368,17 +18371,19 @@ nodes = (
 layerId = "E39CE873-C6CB-4040-8FBA-1D86B139B3E5";
 shapes = (
 {
+alignment = -1;
 ref = l;
 userData = {
 UFO.identifier = 2A8B7583;
 };
 },
 {
+alignment = -1;
 pos = (133,0);
 ref = periodcentered;
 }
 );
-width = 219;
+width = 249;
 }
 );
 unicode = 320;
