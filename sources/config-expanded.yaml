@@ -1,0 +1,5 @@
+sources:
+  - SpecialGothic-Expanded.glyphs
+familyName: "Special Gothic Expanded One"
+outputDir: "../fonts/specialgothic-expanded"
+cleanUp: true
