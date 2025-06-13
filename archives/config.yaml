@@ -1,0 +1,5 @@
+sources:
+  - SpecialGothic.glyphs
+familyName: "Special Gothic"
+outputDir: "../fonts/specialgothic"
+cleanUp: true
